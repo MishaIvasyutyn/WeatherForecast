@@ -1,0 +1,24 @@
+{
+  "name": "simple-nodejs-weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmorelli25/simple-nodejs-weather-app.git"
+  },
+  "author": "brandon morelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmorelli25/simple-nodejs-weather-app/issues"
+  },
+  "homepage": "https://github.com/bmorelli25/simple-nodejs-weather-app#readme",
+  "dependencies": {
+    "kelvin-to-celsius": "^1.1.0",
+    "request": "^2.88.0",
+    "yargs": "^15.0.2"
+  }
+}
